@@ -7,6 +7,6 @@ Pelivalitsin on ohjelma, jolla voidaan arpoa seuraava pelattava peli 80-luvun la
 
 Ohjelma käynnistyy ajamalla ohjelma.
 
-Seuraavia tehtäviä:
+TO DO:
 - Muistin tyhjennys, kun kaikki 50 peliä on pelattua
 - Kuitenkin niin, että viimeksi pelattuja 15 peliä ei voi heti uudestaan pelata
